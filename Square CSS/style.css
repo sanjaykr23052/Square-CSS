@@ -1,0 +1,16 @@
+body {
+background: linear-gradient(to right,#1488cc,#2b32b2);
+}
+.s {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+}
+.s .sq {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
